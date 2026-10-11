@@ -1,0 +1,21 @@
+# Old Squarespace links -> new pages (Cloudflare Pages reads this file)
+/findaclinic            /#find-care   301
+/insured-clinics        /#find-care   301
+/out-of-pocket-clinics  /#find-care   301
+/insured-clinics/*      /#find-care   301
+/out-of-pocket-clinics/* /#find-care  301
+/learn                  /#learn       301
+/resources              /#guides      301
+/resources-1            /#guides      301
+/the-health-access-project /#hap      301
+/impact                 /#impact      301
+/our-mission            /#about       301
+/our-team               /#team        301
+/about-us               /#about       301
+/austin-chapter         /#austin-chapter 301
+/volunteer              /#volunteer   301
+/get-involved           /#volunteer   301
+/volunteer-portal       /#volunteer   301
+/contact-us             /#contact     301
+/donate                 /#donate      301
+/health-navigator       /#health-navigator 301
